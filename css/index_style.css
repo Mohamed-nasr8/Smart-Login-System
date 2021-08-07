@@ -1,0 +1,52 @@
+body
+{
+    background-color: #24353F;
+}
+.btn
+{
+margin: auto     ; 
+
+
+}
+h1
+{
+    color: #17a2b8;
+    font-size: 2.5rem;
+
+}
+.regs
+{
+    height:80%
+
+}
+.forem
+{
+    background-color: #24353F;
+
+}
+input
+{
+    
+    background-color: transparent !important;
+    color: #fff !important;
+
+}
+.red
+{
+    color: #dc3545
+    ;
+}
+.good
+{
+  color:#28a745
+
+  ;  
+
+}
+a{
+    color: white !important ;
+}
+.navbar
+{
+    background-color:#24353F;
+}
